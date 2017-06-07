@@ -1,0 +1,64 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorAccent"
+    android:orientation="vertical"
+    tools:context="xir3n12.remidiuts.telkomschid.allnavigation.nav2aFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="match_parent"
+        android:layout_height="27dp"
+        android:text="Nama : Fitria Mela Agnes" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="match_parent"
+        android:layout_height="27dp"
+        android:text="Kelas : XI RPL 3" />
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="match_parent"
+        android:layout_height="27dp"
+        android:text="No.Absen : 12" />
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="match_parent"
+        android:layout_height="27dp"
+        android:text="NIS : 4715/1432.070" />
+
+    <TextView
+        android:id="@+id/textView7"
+        android:layout_width="match_parent"
+        android:layout_height="27dp"
+        android:text="Nama Sekolah : SMK Telkom Malang" />
+
+    <TextView
+        android:id="@+id/textView11"
+        android:layout_width="match_parent"
+        android:layout_height="27dp"
+        android:text="Tempat Tanggal Lahir : Blitar, 09 Januari 2000 " />
+
+    <TextView
+        android:id="@+id/textView10"
+        android:layout_width="match_parent"
+        android:layout_height="27dp"
+        android:text="Umur : 17 tahun" />
+
+    <TextView
+        android:id="@+id/textView8"
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:text="Alamat Kos : Jl.Danau Ranau 1 GRB9 Sawojajar Kedungkandang Malang" />
+
+    <TextView
+        android:id="@+id/textView9"
+        android:layout_width="match_parent"
+        android:layout_height="37dp"
+        android:text="Alamat Rumah :Jatiroto Rt 02 Rw 02 Slorok Doko Blitar" />
+</LinearLayout>
